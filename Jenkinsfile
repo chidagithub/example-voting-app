@@ -36,6 +36,6 @@ pipeline{
    post{
     always{
         echo "Always Run"
-       }
+    }
    }
 }
